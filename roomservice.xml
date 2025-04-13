@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Xiaomi Vayu (Poco X3 Pro) -->
+    <project path="device/xiaomi/vayu"      name="<>/device_xiaomi_vayu"      remote="github" revision="15" />
+    <project path="vendor/xiaomi/vayu"      name="<>/vendor_xiaomi_vayu"      remote="github" revision="15" />
+    <project path="kernel/xiaomi/vayu"      name="<>/kernel_xiaomi_vayu"      remote="github" revision="14" />
+    <project path="hardware/xiaomi"         name="<>/hardware_xiaomi"         remote="github" revision="15" />
+
+    <!-- Common SM8150 (Snapdragon 855) -->
+    <project path="device/qcom/common"      name="<>/device_qcom_common"      remote="github" revision="15" />
+    <project path="vendor/qcom/sm8150"      name="<>/vendor_qcom_sm8150"      remote="github" revision="15" />
+    <project path="kernel/xiaomi/sm8150"    name="<>/kernel_xiaomi_sm8150"    remote="github" revision="14" />
+
+    <!-- SELinux Policies -->
+    <project path="vendor/rom/sepolicy"     name="<>/proprietary_vendor_sepolicy"  remote="github" revision="15" />
+        <project path="hardware/qcom/sepolicy"  name="<>/hardware_qcom_sepolicy"       remote="github" revision="15" />
+</manifest>
