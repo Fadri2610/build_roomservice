@@ -3,6 +3,6 @@
     <!-- Xiaomi Vayu (Poco X3 Pro) -->
     <project path="device/xiaomi/vayu"      name="Fadri2610/derp_device_xiaomi_vayu"      remote="github" revision="evox" />
     <project path="vendor/xiaomi/vayu"      name="Fadri2610/derpfest_vendor_xiaomi_vayu"      remote="github" revision="15-derp" />
-    <project path="kernel/xiaomi/vayu"      name="Fadri2610/DerpX_kernel_xiaomi_vayu"      remote="github" revision="marchstagingrom" />
+    <project path="kernel/xiaomi/vayu"      name="Fadri2610/DerpX_kernel_xiaomi_vayu"      remote="github" revision="marchstaging_rom" />
     <project path="hardware/xiaomi"         name="Evolution-X-Devices/hardware_xiaomi"         remote="github" revision="vic" />
 </manifest>
